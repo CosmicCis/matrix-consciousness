@@ -1,2 +1,2 @@
-# matrix-consciousness
-matrix consciousness
+# matrix consciousness
+
